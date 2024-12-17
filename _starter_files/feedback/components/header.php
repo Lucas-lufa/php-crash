@@ -17,14 +17,18 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
          <li class="nav-item">
-           <a class="nav-link" href="/php-crash/feedback/index.html">Home</a>
-         </li>
-         <li class="nav-item">
-           <a class="nav-link" href="/php-crash/feedback/feedback.html">Feedback</a>
-         </li>
-         <li class="nav-item">
-           <a class="nav-link" href="/php-crash/feedback/about.html">About</a>
-         </li>
+              <a class="nav-link" href="/crash/feedback/index.php">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/crash/feedback/feedback.php"
+                >Feedback</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/crash/feedback/about.php"
+                >About</a
+              >
+            </li>
         </ul>
       </div>
   </div>
@@ -32,18 +36,3 @@
 
 <main>
   <div class="container d-flex flex-column align-items-center">
-    <h2>About</h2>
-
-    <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore impedit totam porro iure reiciendis autem possimus sapiente, optio, exercitationem ipsum assumenda mollitia, recusandae expedita culpa ratione voluptatem esse quos quam?</p>
-    </div>
-</main>
-
-<footer class="text-center mt-5">
-  Copyright &copy; 2022
-</footer>
- 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
-</body>
-</html>
-
